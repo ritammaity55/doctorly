@@ -6,7 +6,6 @@ Live link: [Click here](https://doctorly-one.vercel.app/)
 
 Table of Contents
 -----------------
-  - [Table of Contents](#table-of-contents)
   - [Getting Started](#getting-started)
   - [Features](#features)
   - [Technologies Used](#technologies-used)
