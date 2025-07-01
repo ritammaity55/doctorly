@@ -25,7 +25,7 @@ Getting Started
     
 2.  Navigate into the project directory and install the necessary dependencies:npm install # or yarn install or pnpm install
     
-3.  Create a .env.local file in the root of your project and populate it with the required environment variables (see [Environment Variables](https://www.google.com/search?q=#environment-variables) section).
+3.  Create a .env.local file in the root of your project and populate it with the required environment variables.
     
 4.  Start the Next.js development server:npm run dev # or yarn dev or pnpm devThis will start the Next.js development server. The application should be accessible at http://localhost:3000 (or the port you configured).
     
