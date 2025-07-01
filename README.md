@@ -2,7 +2,7 @@
 
 Doctorly is a full-stack doctor appointment platform designed to streamline the management of doctor appointments, patient records, and administrative tasks. It leverages modern web technologies, including Next.js, Neon Serverless Postgres, Tailwind CSS, and Vonage, to provide a secure, efficient, and real-time communication platform for healthcare professionals and patients.
 
-Live link: [Click here](https://doctorly.vercel.app/)
+Live link: [Click here](https://doctorly-one.vercel.app/)
 
 Table of Contents
 -----------------
