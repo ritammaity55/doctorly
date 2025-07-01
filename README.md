@@ -6,7 +6,6 @@ Live link: [Click here](https://doctorly.vercel.app/)
 
 Table of Contents
 -----------------
-- [Doctorly](#doctorly)
   - [Table of Contents](#table-of-contents)
   - [Getting Started](#getting-started)
   - [Features](#features)
